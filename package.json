@@ -1,0 +1,22 @@
+{
+    "name": "vscode-juggler-theme",
+    "displayName": "Boxy juggler",
+    "description": "leeson Boxy port for vscode",
+    "version": "0.0.1",
+    "publisher": "vscode-juggler-theme",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Boxy Juggler Lee",
+                "uiTheme": "vs-dark",
+                "path": "./themes/light_plus.json"
+            }
+        ]
+    }
+}
