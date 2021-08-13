@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Juggler+ (Dark + Light)",
+	"name": "Dshing (Dark + Light)",
 	"include": "./light_vs.json",
 	"tokenColors": [
 		{

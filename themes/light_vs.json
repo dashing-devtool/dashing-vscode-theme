@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Juggler (Juggler)",
+	"name": "dashing (light)",
 	"include": "./light_defaults.json",
 	"tokenColors": [
 		{
@@ -356,6 +356,7 @@
 				"foreground": "#800000"
 			}
 		},
+
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {

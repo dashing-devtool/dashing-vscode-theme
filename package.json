@@ -1,19 +1,32 @@
 {
-    "name": "vscode-juggler-theme",
-    "displayName": "Boxy juggler",
-    "description": "leeson Boxy port for vscode",
-    "version": "0.0.1",
-    "publisher": "vscode-juggler-theme",
+    "name": "dasign-vscode-theme",
+    "displayName": "Dashing vsCode theme",
+    "description": "A vscode eye protection theme",
+    "version": "2.0.1",
+    "publisher": "dasign-vscode-theme",
+    "repository": "https://github.com/dashing-devtool/dasign-vscode-theme",
+    "icon": "logo.ico",
     "engines": {
         "vscode": "^1.47.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
+    "author": {
+        "name": "Jeamlee",
+        "email": "504006463@qq.com",
+        "url": "https://github.com/dashing-devtool/dasign-vscode-theme"
+    },
+     "bugs": {
+        "url": "https://github.com/dashing-devtool/dasign-vscode-theme/issues"
+    },
+    "homepage": "https://github.com/dashing-devtool",
+    "license": "MIT",
     "contributes": {
         "themes": [
             {
-                "label": "Boxy Juggler Lee",
+                "label": "Juggler (Dark + Light)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/light_plus.json"
             }
