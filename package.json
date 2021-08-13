@@ -1,10 +1,10 @@
 {
     "name": "dasign-vscode-theme",
-    "displayName": "Dashing vsCode theme",
+    "displayName": "Dashing theme for vscode",
     "description": "A vscode eye protection theme",
-    "version": "2.0.1",
+    "version": "2.0.5",
     "publisher": "dasign-vscode-theme",
-    "repository": "https://github.com/dashing-devtool/dasign-vscode-theme",
+    "repository": "https://github.com/dashing-devtool/dashing-vscode-theme",
     "icon": "logo.ico",
     "engines": {
         "vscode": "^1.47.0"
@@ -14,19 +14,19 @@
         "Other"
     ],
     "author": {
-        "name": "Jeamlee",
+        "name": "Dashing li",
         "email": "504006463@qq.com",
-        "url": "https://github.com/dashing-devtool/dasign-vscode-theme"
+        "url": "https://github.com/dashing-devtool/dashing-vscode-theme"
     },
      "bugs": {
-        "url": "https://github.com/dashing-devtool/dasign-vscode-theme/issues"
+        "url": "https://github.com/dashing-devtool/dashing-vscode-theme/issues"
     },
     "homepage": "https://github.com/dashing-devtool",
     "license": "MIT",
     "contributes": {
         "themes": [
             {
-                "label": "Juggler (Dark + Light)",
+                "label": "Dashing (Dark + Light)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/light_plus.json"
             }

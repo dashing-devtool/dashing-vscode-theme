@@ -1,6 +1,6 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-dasign-vscode-theme.png
+theme.png
 logo.png
 vsc-extension-quickstart.md

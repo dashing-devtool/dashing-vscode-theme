@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Light Dashing Colors",
+	"name": "Dashing (Dark + Light) Colors",
 	"colors": {
 		"foreground":"#858080",
 		"focusBorder":"#272928",

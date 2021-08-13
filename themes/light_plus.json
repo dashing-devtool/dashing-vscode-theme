@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Dshing (Dark + Light)",
+	"name": "Dashing (Dark + Light) tokenColors",
 	"include": "./light_vs.json",
 	"tokenColors": [
 		{
